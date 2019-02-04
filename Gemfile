@@ -5,4 +5,4 @@ gem 'sass'
 gem 'compass'
 gem 'coffee-script'
 gem 'foreman'
-gem 'raapoi'
+gem "raapoi"
